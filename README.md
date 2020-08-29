@@ -2,7 +2,9 @@
 Curso PythonPro
 
 suportadfa versão 3 de Python
-[![Build Status](https://travis-ci.org/mod64bits/modpythonpro.svg?branch=master)](https://travis-ci.org/mod64bits/modpythonpro)
+
+[![Build Status](https://travis-ci.org/mod64bits/modpythonpro.svg?branch=master)](https://travis-ci.org/mod64bits/modpythonpro).
+
 Para Instalar
 
 ''' console
