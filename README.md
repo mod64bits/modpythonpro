@@ -3,7 +3,9 @@ Curso PythonPro
 
 suportadfa versão 3 de Python
 
-[![Build Status](https://travis-ci.org/mod64bits/modpythonpro.svg?branch=master)](https://travis-ci.org/mod64bits/modpythonpro).
+[![Build Status](https://travis-ci.org/mod64bits/modpythonpro.svg?branch=master)](https://travis-ci.org/mod64bits/modpythonpro)
+[![Updates](https://pyup.io/repos/github/mod64bits/modpythonpro/shield.svg)](https://pyup.io/repos/github/mod64bits/modpythonpro/)
+[![Python 3](https://pyup.io/repos/github/mod64bits/modpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/mod64bits/modpythonpro/)
 
 Para Instalar
 
